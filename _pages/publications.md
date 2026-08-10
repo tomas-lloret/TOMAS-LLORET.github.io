@@ -15,15 +15,15 @@ nav_order: 3
 
 <div class="publications">
 
-## Journal Articles
+<h2>Journal Articles</h2>
 
 {% bibliography --query @article %}
 
-## Book Chapters
+<h2>Book Chapters</h2>
 
 {% bibliography --query @incollection %}
 
-## Conference Proceedings
+<h2>Conference Proceedings</h2>
 
 {% bibliography --query @inproceedings %}
 
