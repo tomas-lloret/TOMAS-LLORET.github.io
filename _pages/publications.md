@@ -15,6 +15,16 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography %}
+## Journal Articles
+
+{% bibliography --query @article %}
+
+## Book Chapters
+
+{% bibliography --query @incollection %}
+
+## Conference Proceedings
+
+{% bibliography --query @inproceedings %}
 
 </div>
