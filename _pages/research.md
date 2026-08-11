@@ -31,4 +31,4 @@ Application of optical modelling and image-quality metrics to imaging systems an
 
 ### Mathematical Modelling & Systems Theory
 
-I am also interested in mathematical approaches to complex systems, particularly in questions related to causality, nonlinear interactions, and whole–part relationships.
+Emerging research interests include mathematical approaches to complex systems, with particular emphasis on causality, nonlinear interactions, and whole–part relationships.
