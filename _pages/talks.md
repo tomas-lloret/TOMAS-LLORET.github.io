@@ -25,6 +25,12 @@ Invited lecture
 
 ## Selected Conference Presentations
 
+### 2026
+
+**Simultaneous RGB multiplexing in Bayfol HX200 photopolymer for augmented reality**  
+*SPIE Photonics Europe · Strasbourg, France*  
+Oral presentation
+
 ### 2025
 
 **Fundamental tools in the design of hololens-based optical devices**  
