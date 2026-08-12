@@ -1,7 +1,7 @@
 cv:
   name: Tomás Lloret
   label: Physicist | Optical Scientist
-  email: ""
+  email: tomas.lloret@ua.es
   location: Alicante, Spain
   image: ""
   summary: Physicist and optical scientist working in optics and photonics, with particular interests in holography, holographic optical elements, photopolymer materials, optical modelling, wavefront analysis, and imaging.
@@ -14,7 +14,7 @@ cv:
         location: Alicante, Spain
         start_date: 2026
         end_date: present
-        summary: Teaching and research in optics, photonics, physics, and mathematical methods.
+        summary: Teaching and research in Optics, Photonics, Physics, and Mathematical Methods.
 
       - company: University of Alicante
         position: Adjunct Professor
