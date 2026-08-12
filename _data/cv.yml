@@ -37,6 +37,28 @@ cv:
         end_date: 2025-12
         summary: Research on holographic optical elements and photopolymer-based devices for augmented-reality applications.
 
+    Research Stays:
+      - company: University of Granada
+        position: Visiting Researcher (upcoming)
+        location: Granada, Spain
+        start_date: 2026-09
+        end_date: 2026-12
+        summary: Three-month research stay at the Department of Optics under the supervision of Prof. José Antonio Díaz Navas, focused on optical modelling, optical system design, and image quality analysis.
+
+      - company: Technological University Dublin
+        position: Visiting Doctoral Researcher
+        location: Dublin, Ireland
+        start_date: 2024-03
+        end_date: 2024-06
+        summary: Three-month research stay at FOCAS under the supervision of Prof. Izabela Naydenova and Prof. Suzanne Martin, focused on the temperature dependence and optical characterization of holographic elements recorded in different photopolymer materials.
+
+      - company: University of Colorado Boulder
+        position: Visiting Doctoral Researcher
+        location: Boulder, CO, USA
+        start_date: 2023-01
+        end_date: 2023-04
+        summary: Three-month research stay at McLeod's Lab under the supervision of Prof. Robert McLeod, focused on physical and chemical phenomena during holographic recording, including polymerization, diffusion, scattering, and haze, as well as transmission and reflection diffraction gratings.
+
     Education:
       - institution: University of Alicante
         location: Alicante, Spain
