@@ -6,13 +6,9 @@ cv:
   image: ""
   summary: Physicist and optical scientist working in optics and photonics, with particular interests in holography, holographic optical elements, photopolymer materials, optical modelling, wavefront analysis, and imaging.
 
-  social_networks:
-    - network: GitHub
-      username: tomas-lloret
-
   sections:
 
-    Academic Positions:
+    Experience:
       - company: University of Alicante
         position: Assistant Professor
         location: Alicante, Spain
@@ -33,6 +29,13 @@ cv:
         start_date: 2022
         end_date: 2025
         summary: Predoctoral research in optics and photonics, focused on holography, holographic optical elements, photopolymer materials, and optical characterization.
+
+      - company: POPULAR European Project
+        position: Junior Researcher
+        location: Alicante, Spain
+        start_date: 2025-04
+        end_date: 2025-12
+        summary: Research on holographic optical elements and photopolymer-based devices for augmented-reality applications.
 
     Education:
       - institution: University of Alicante
@@ -58,70 +61,6 @@ cv:
         area: Optics and Optometry
         studyType: BSc
 
-    Research Experience:
-      - company: University of Alicante
-        position: Researcher in Optics and Photonics
-        location: Alicante, Spain
-        summary: Research on holographic optical elements, volume holography, photopolymer materials, optical modelling, wavefront analysis, imaging, and holographic solar concentration.
-
-      - company: POPULAR European Project
-        position: Junior Researcher
-        start_date: 2025-04
-        end_date: 2025-12
-        summary: Research on holographic optical elements and photopolymer-based devices for augmented-reality eyewear.
-        highlights:
-          - Simultaneous RGB multiplexing in Bayfol HX200 photopolymer for augmented-reality applications.
-          - Optical characterization and analysis of holographic devices for augmented-reality systems.
-
-    Research Projects:
-      - name: POPULAR — Prescription Optics Providing a Universal Lens for Augmented Reality Eyewear
-        summary: European research project focused on optical technologies for augmented-reality eyewear.
-        start_date: 2024
-        end_date: 2026
-        highlights:
-          - Junior Researcher from April to December 2025.
-          - Research on holographic optical elements and photopolymer-based devices for augmented-reality applications.
-
-      - name: Holographic Photonics for Well-Being
-        summary: National research project on next-generation sustainable energy and biosensing applications based on holographic photonics.
-        start_date: 2024
-        end_date: 2028
-
-      - name: Advanced Holographic Photonics — HOLOTONICS
-        summary: Regional research project on advanced holographic photonics.
-        start_date: 2021
-        end_date: 2024
-
-      - name: Next-Generation Holographic Photonics Applied to Biosensing and Energy Efficiency
-        summary: National research project focused on holographic photonics for biosensing and energy-efficient applications.
-        start_date: 2019
-        end_date: 2024
-
-    Teaching Experience:
-      - company: University of Alicante
-        position: University Teaching
-        location: Alicante, Spain
-        start_date: 2021
-        end_date: present
-        summary: Undergraduate and master's-level teaching in mathematics, physics, optics, photonics, and engineering.
-        highlights:
-          - Supervised predoctoral teaching from the 2021–22 to 2024–25 academic years.
-          - Adjunct Professor during the 2025–26 academic year.
-          - Assistant Professor from 2026.
-
-    Research Output:
-      - title: Peer-Reviewed Journal Articles
-        date: 2026
-        summary: 19 peer-reviewed journal articles in optics, photonics, holography, photopolymers, imaging, and related areas.
-
-      - title: Book Chapters
-        date: 2026
-        summary: Two book chapters related to holography and holographic optical elements.
-
-      - title: Conference Contributions
-        date: 2026
-        summary: Contributions to international scientific meetings through invited talks, oral presentations, posters, and conference proceedings.
-
     Awards:
       - title: SPIE Scholarship
         date: 2024
@@ -136,8 +75,3 @@ cv:
         date: 2019
         awarder: Dr. Soler Foundation
         summary: First prize awarded for the best academic record in the MSc in Advanced Optometry and Eyecare.
-
-    Academic Service:
-      - company: Scientific Journals
-        position: Peer Reviewer
-        summary: Reviewer for international scientific journals in optics, photonics, materials, energy, and related interdisciplinary fields.
