@@ -1,14 +1,9 @@
 :root {
-  --global-theme-color: #2F5F7A;
-  --global-hover-color: #2F5F7A;
+  --global-theme-color: #173B57;
+  --global-hover-color: #173B57;
 }
 
 html[data-theme="dark"] {
-  --global-theme-color: #2F5F7A;
-  --global-hover-color: #2F5F7A;
-}
-
-html[data-theme="dark"] {
-  --global-theme-color: #2F5F7A;
-  --global-hover-color: #2F5F7A;
+  --global-theme-color: #173B57;
+  --global-hover-color: #173B57;
 }
