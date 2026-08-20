@@ -2,7 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor · University of Alicante
+subtitle: <div class="about-heading">
+  <h1>Tomás Lloret</h1>
+  <p>Assistant Professor · University of Alicante</p>
+</div>
 
 profile:
   align: right
