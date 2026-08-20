@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /beyond-academia/
-title: beyond academia
+title: Beyond Academia
 description: Life beyond research and teaching.
 nav: true
 nav_order: 7
