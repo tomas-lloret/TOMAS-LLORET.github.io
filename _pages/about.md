@@ -2,10 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <div class="about-heading">
-  <h1>Tomás Lloret</h1>
-  <p>Assistant Professor · University of Alicante</p>
-</div>
+subtitle: >-
+  <div class="about-heading">
+    <h1>Tomás Lloret</h1>
+    <p>Assistant Professor · University of Alicante</p>
+  </div>
 
 profile:
   align: right
