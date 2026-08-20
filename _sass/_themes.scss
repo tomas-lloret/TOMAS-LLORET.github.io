@@ -7,3 +7,6 @@ html[data-theme="dark"] {
   --global-theme-color: #173B57;
   --global-hover-color: #173B57;
 }
+.navbar .nav-link {
+  text-transform: capitalize !important;
+}
